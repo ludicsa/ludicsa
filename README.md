@@ -1,4 +1,4 @@
-### Oi! Meu nome é Lucas Soldeira Ludicsa
+<p align="center" ### Oi! Meu nome é Lucas Soldeira Ludicsa </p>
 
 <!--
 **ludicsa/ludicsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
